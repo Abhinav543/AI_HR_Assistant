@@ -1,0 +1,7 @@
+comp_off_id,employee_id,earned_date,expiry_date,days,status
+CO001,EMP001,2026-10-25,2026-12-25,1,Available
+CO002,EMP002,2026-10-18,2026-12-18,1,Available
+CO003,EMP003,2026-09-15,2026-11-15,1,Available
+CO004,EMP005,2026-10-10,2026-12-10,1,Used
+CO005,EMP006,2026-10-20,2026-12-20,1,Available
+CO006,EMP009,2026-09-20,2026-11-20,1,Available

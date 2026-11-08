@@ -1,0 +1,7 @@
+request_id,employee_id,leave_type,start_date,end_date,reason,status,applied_date
+LR001,EMP001,Annual,2026-11-09,2026-11-11,Family function,Pending,2026-11-03
+LR002,EMP002,Sick,2026-11-02,2026-11-02,Not feeling well,Approved,2026-11-01
+LR003,EMP003,Annual,2026-11-16,2026-11-18,Personal work,Pending,2026-11-03
+LR004,EMP005,Annual,2026-11-10,2026-11-12,Vacation,Approved,2026-11-02
+LR005,EMP006,Annual,2026-11-09,2026-11-13,Family vacation,Pending,2026-11-03
+LR006,EMP009,Sick,2026-11-03,2026-11-03,Medical appointment,Approved,2026-11-03

@@ -1,0 +1,11 @@
+employee_id,name,department,designation,manager_id,joining_date,annual_leave_balance,sick_leave_balance
+EMP001,Rahul Sharma,Engineering,Software Engineer,MGR001,2023-06-12,18,10
+EMP002,Priya Nair,Engineering,Data Analyst,MGR001,2022-08-15,15,10
+EMP003,Arjun Kumar,Engineering,Senior Developer,MGR001,2021-03-10,12,10
+EMP004,Neha Reddy,Human Resources,HR Executive,MGR002,2023-01-20,20,10
+EMP005,Karan Mehta,Marketing,Marketing Executive,MGR003,2022-11-05,16,10
+EMP006,Divya Rao,Engineering,Software Engineer,MGR001,2024-02-01,14,10
+EMP007,Vikram Singh,Finance,Financial Analyst,MGR004,2021-09-18,10,10
+EMP008,Ananya Iyer,Marketing,Content Specialist,MGR003,2023-07-22,17,10
+EMP009,Sanjay Patel,Engineering,QA Engineer,MGR001,2022-05-14,13,10
+EMP010,Meera Das,Human Resources,HR Manager,MGR002,2020-04-11,15,10

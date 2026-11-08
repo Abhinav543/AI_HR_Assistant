@@ -1,0 +1,46 @@
+# Employee Leave Policy
+
+Policy Name: Employee Leave Policy
+Policy Version: 1.0
+Effective Date: 01 January 2026
+Document Type: HR Policy
+
+## 1. Annual Leave
+
+All eligible employees receive 18 days of annual leave per calendar year.
+
+Annual leave can be used for personal activities, vacations, and other planned absences.
+
+Employees should submit annual leave requests at least 3 calendar days before the intended leave start date.
+
+Annual leave approval depends on available leave balance and team workload.
+
+## 2. Sick Leave
+
+Employees receive 10 days of sick leave per calendar year.
+
+Sick leave can be used when an employee is unable to work due to illness or medical reasons.
+
+Employees should inform their manager as soon as reasonably possible when taking sick leave.
+
+## 3. Leave Approval
+
+All leave requests must be submitted through the company's leave management system.
+
+Managers are responsible for reviewing leave requests.
+
+The HR department may review requests involving policy exceptions or insufficient information.
+
+Submitting a leave request does not mean that the request has been approved.
+
+Final approval or rejection must be provided by an authorized manager or HR representative.
+
+## 4. Weekends and Public Holidays
+
+Saturdays, Sundays, and officially recognized company holidays are excluded when calculating annual leave working days.
+
+## 5. Leave Balance
+
+Employees can request leave only within their available leave balance, subject to applicable policy exceptions and manager or HR review.
+
+Employees can check their available annual and sick leave balances through the leave management system.

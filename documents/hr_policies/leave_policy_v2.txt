@@ -1,0 +1,103 @@
+# Employee Leave Policy
+
+Policy Name: Employee Leave Policy
+Policy Version: 2.0
+Effective Date: 01 November 2026
+Document Type: HR Policy
+
+## 1. Annual Leave
+
+All eligible employees receive 20 days of annual leave per calendar year.
+
+Annual leave can be used for personal activities, vacations, and other planned absences.
+
+Employees should submit annual leave requests at least 5 calendar days before the intended leave start date.
+
+Annual leave approval depends on available leave balance and team workload.
+
+## 2. Sick Leave
+
+Employees receive 12 days of sick leave per calendar year.
+
+Sick leave can be used when an employee is unable to work due to illness or medical reasons.
+
+Employees should inform their manager as soon as reasonably possible when taking sick leave.
+
+## 3. Leave Approval
+
+All leave requests must be submitted through the company's leave management system.
+
+Managers are responsible for reviewing leave requests.
+
+The HR department may review requests involving policy exceptions or insufficient information.
+
+Final approval or rejection must be provided by an authorized manager or HR representative.
+
+## 4. Weekends and Public Holidays
+
+Saturdays, Sundays, and officially recognized company holidays are excluded when calculating annual leave working days.
+
+## 5. Leave Balance
+
+Employees can request leave only within their available leave balance, subject to applicable policy exceptions and manager or HR review.
+
+Employees can check their available annual and sick leave balances through the leave management system.
+
+## 7. Carry-Forward of Unused Annual Leave
+
+**Sample Demo Policy**
+
+1. Employees may carry forward a maximum of 5 unused annual leave days into the next calendar year.
+2. Carried-forward leave must be used within the first 3 months of the following calendar year.
+3. Unused carried-forward leave expires after 31 March.
+4. Sick leave cannot be carried forward.
+5. The HR department is responsible for maintaining and verifying carried-forward leave balances.
+
+## 8. Compensatory Off (Comp-Off) Policy
+
+**Sample Demo Policy**
+
+1. Employees who work on an approved weekly holiday or public holiday may be eligible for compensatory off.
+2. Comp-off must be approved by the employee's manager before it is credited.
+3. One approved extra working day earns one comp-off day.
+4. Comp-off must be used before its recorded expiry date.
+5. The expiry date assigned to each comp-off record is maintained in the HR database.
+6. Expired comp-off cannot be used.
+7. Comp-off cannot be used more than once.
+8. Employees can check their available, used, and expired comp-off balances through the HR system.
+
+## 9. Public Holidays During Leave
+
+**Sample Demo Policy**
+
+1. Official company public holidays falling within an annual or sick leave period are excluded from the leave-day calculation.
+2. Saturdays and Sundays are also excluded from working-day calculations.
+3. Employees are not charged leave for an official company holiday.
+4. The company holiday calendar maintained by HR is the reference for determining public holidays.
+5. Employees should check the holiday calendar before submitting leave requests.
+
+## 10. Required Documents and Approval Process
+
+**Sample Demo Policy**
+
+1. Annual leave requests must include the leave type, start date, end date, and reason.
+2. Sick leave requests must include the leave type, dates, and reason.
+3. For sick leave exceeding 2 consecutive working days, a medical certificate should be submitted to HR.
+4. Annual leave requests are reviewed by the employee's reporting manager.
+5. Sick leave requests are reviewed by the reporting manager, with HR review where required.
+6. Exceptions to standard leave rules require HR authorization.
+7. A leave request remains Pending until an authorized manager or HR representative records a decision.
+8. The AI assistant can provide recommendations but cannot independently approve or reject requests.
+
+## 11. Escalation for Delayed Leave Approvals
+
+**Sample Demo Policy**
+
+1. Managers are expected to review pending leave requests within 2 working days of submission.
+2. If no decision is recorded within 2 working days, the request is flagged as overdue.
+3. The employee may contact HR to request an update.
+4. HR may follow up with the reporting manager and review the delayed request.
+5. An overdue request does not automatically become approved or rejected.
+6. The final decision must be recorded by an authorized manager or HR representative.
+
+**Policy Assumptions:** These sections are sample rules created for demonstration and assessment purposes. They do not represent verified real-world company policies.
