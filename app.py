@@ -1,4 +1,4 @@
-"""AI-Powered HR Assistant — redesigned Streamlit presentation layer.
+"""AI-Powered HR Assistant 
 
 The existing business logic, database access, analytics and RAG modules are
 intentionally kept in src/ and are called through their existing interfaces.
